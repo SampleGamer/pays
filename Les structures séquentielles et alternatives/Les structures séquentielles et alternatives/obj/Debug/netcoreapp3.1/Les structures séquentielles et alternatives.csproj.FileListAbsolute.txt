@@ -1,0 +1,15 @@
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\bin\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.exe
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\bin\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.deps.json
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\bin\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.runtimeconfig.json
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\bin\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.runtimeconfig.dev.json
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\bin\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.dll
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\bin\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.pdb
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.csprojAssemblyReference.cache
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les_structures_séquentielles_et_alternatives.Form1.resources
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.csproj.GenerateResource.cache
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.AssemblyInfoInputs.cache
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.AssemblyInfo.cs
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.csproj.CoreCompileInputs.cache
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.dll
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.pdb
+D:\Semestre 3\Programation\Les structures séquentielles et alternatives\Les structures séquentielles et alternatives\obj\Debug\netcoreapp3.1\Les structures séquentielles et alternatives.genruntimeconfig.cache
